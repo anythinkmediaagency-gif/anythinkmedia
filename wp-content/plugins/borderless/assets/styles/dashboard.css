@@ -8,7 +8,7 @@
 
 .borderless-page-welcome .wp-badge.borderless-page-logo {
   background-color: #3379fc;
-  background-image: url(/wp-content/plugins/borderless/assets/img/borderless.svg);
+  background-image: url(http://localhost/wp-content/plugins/borderless/assets/img/borderless.svg);
   border-radius: 4px;
 }
 
