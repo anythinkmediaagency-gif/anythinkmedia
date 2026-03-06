@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'borderless-icon-font';
   src:
-    url('/wp-content/plugins/borderless/assets/fonts/borderless-icon-font.ttf?wir7su') format('truetype'),
-    url('/wp-content/plugins/borderless/assets/fonts/borderless-icon-font.woff?wir7su') format('woff'),
-    url('/wp-content/plugins/borderless/assets/fonts/borderless-icon-font.svg?wir7su#borderless-icon-font') format('svg');
+    url('http://localhost/wp-content/plugins/borderless/assets/fonts/borderless-icon-font.ttf?wir7su') format('truetype'),
+    url('http://localhost/wp-content/plugins/borderless/assets/fonts/borderless-icon-font.woff?wir7su') format('woff'),
+    url('http://localhost/wp-content/plugins/borderless/assets/fonts/borderless-icon-font.svg?wir7su#borderless-icon-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
